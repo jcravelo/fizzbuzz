@@ -12,3 +12,4 @@
 #   buzz
 #   …
 # Write a simple program that prints out the numbers or words from 1 to 100.
+# Test code php.
